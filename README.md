@@ -1,6 +1,7 @@
 # Online Retail Dataset
 This project involves Market analyzin,The dataset provides valuable insights into customer purchasing behavior and inventory management.
-
+## Data Sources
+[ Online Retail Dataset]([https://www.kaggle.com/datasets/kazanova/sentiment140](https://www.kaggle.com/datasets/vijayuv/onlineretail)): Online Retail Data Set.
 ## Dataset  Overview
 The dataset contains the following columns:
 
