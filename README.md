@@ -19,7 +19,7 @@ The dataset contains the following columns:
 
 1. **Load the dataset: Import the necessary libraries and load the dataset into a DataFrame**
 2. **Preprocess the data: Clean the text data and prepare it for analysis. This may include removing missing value ,or duplicated**
-3. **Market analyzin: Use the provided code to Create a basket containing the columns you want to group together. **
+3. **Market analyzin: Use the provided code to Create a basket containing the columns you want to group together.**
 4. **Apply Frequent Items and Rolls : Apply to know what products are repeated together and what are the important Rolls ratios such as Confidence and Lift that will help you extract better insights.**
 5. **Do some visualization to understand your data and your Market analyzin better.**
 
