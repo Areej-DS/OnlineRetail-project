@@ -1,9 +1,7 @@
 # Online Retail Dataset
-
-## Overview
 This project involves Market analyzin,The dataset provides valuable insights into customer purchasing behavior and inventory management.
 
-## Dataset Description
+## Dataset  Overview
 The dataset contains the following columns:
 
 - **InvoiceNo**: Unique identifier for each invoice.
