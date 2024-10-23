@@ -1,7 +1,7 @@
 # Online Retail Dataset
 
 ## Overview
-The dataset provides valuable insights into customer purchasing behavior and inventory management.
+This project involves Market analyzin,The dataset provides valuable insights into customer purchasing behavior and inventory management.
 
 ## Dataset Description
 The dataset contains the following columns:
@@ -15,13 +15,22 @@ The dataset contains the following columns:
 - **CustomerID**: Unique identifier for each customer.
 - **Country**: Country where the customer is located.
 
+## Usage Instructions
+
+1. **Load the dataset: Import the necessary libraries and load the dataset into a DataFrame**
+2. **Preprocess the data: Clean the text data and prepare it for analysis. This may include removing missing value ,or duplicated**
+3. **Market analyzin: Use the provided code to Create a basket containing the columns you want to group together. **
+4. **Apply Frequent Items and Rolls : Apply to know what products are repeated together and what are the important Rolls ratios such as Confidence and Lift that will help you extract better insights.**
+5. **Do some visualization to understand your data and your Market analyzin better.**
+
 ## Requirements
 To run the analysis, you will need the following Python packages:
 - pandas
 - numpy
 - matplotlib
 - seaborn
-- mlxtend
+- aprior
+- fpgrowth
 
 You can install the required packages using pip:
 ```bash
